@@ -3,13 +3,15 @@
 This repository hosts public logos and brand assets for our companies, served over GitHub Pages.
 
 
-## 🧱 Direct Links
+### Fraptech  
+![Fraptech Logo](https://sgtms-web.github.io/logo/fraptech/logo.png)
 
-| Company          | Folder               | Direct URL                                                                 |
-|------------------|----------------------|-----------------------------------------------------------------------------|
-| Fraptech         | `fraptech/`          | [View](https://sgtms-web.github.io/logo/fraptech/)                         |
-| Legismith        | `legismith/`         | [View](https://sgtms-web.github.io/logo/legismith/)                        |
-| Tech MS Engineers| `techmsengineers/`   | [View](https://sgtms-web.github.io/logo/techmsengineers/)                 |
+### Legismith  
+![Legismith Logo](https://sgtms-web.github.io/logo/legismith/logo.png)
+
+### TechMS Engineers  
+![TechMS Logo](https://sgtms-web.github.io/logo/techmsengineers/logo.png)
+
 
 ✅ You can click each link to see the folder’s contents.
 
